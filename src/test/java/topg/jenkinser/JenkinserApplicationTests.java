@@ -9,7 +9,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 class JenkinserApplicationTests {
 
 	@Test
-	void contextLoads() {
+	 contextLoads() {
 		// Basic assertion to ensure the test passes
 		String appName = "Jenkinser";
 		assertThat(appName).isEqualTo("Jenkinser");
